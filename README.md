@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/omdave123/Leetcode-Questions/tree/master/0001-two-sum) |
+| [0299-bulls-and-cows](https://github.com/omdave123/Leetcode-Questions/tree/master/0299-bulls-and-cows) |
 ## Two Pointers
 |  |
 | ------- |
@@ -20,4 +21,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3643-flip-square-submatrix-vertically](https://github.com/omdave123/Leetcode-Questions/tree/master/3643-flip-square-submatrix-vertically) |
+## String
+|  |
+| ------- |
+| [0299-bulls-and-cows](https://github.com/omdave123/Leetcode-Questions/tree/master/0299-bulls-and-cows) |
+## Counting
+|  |
+| ------- |
+| [0299-bulls-and-cows](https://github.com/omdave123/Leetcode-Questions/tree/master/0299-bulls-and-cows) |
 <!---LeetCode Topics End-->
