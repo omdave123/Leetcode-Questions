@@ -7,12 +7,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/omdave123/Leetcode-Questions/tree/master/0001-two-sum) |
+| [0128-longest-consecutive-sequence](https://github.com/omdave123/Leetcode-Questions/tree/master/0128-longest-consecutive-sequence) |
 | [3643-flip-square-submatrix-vertically](https://github.com/omdave123/Leetcode-Questions/tree/master/3643-flip-square-submatrix-vertically) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/omdave123/Leetcode-Questions/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/omdave123/Leetcode-Questions/tree/master/0001-two-sum) |
+| [0128-longest-consecutive-sequence](https://github.com/omdave123/Leetcode-Questions/tree/master/0128-longest-consecutive-sequence) |
 | [0299-bulls-and-cows](https://github.com/omdave123/Leetcode-Questions/tree/master/0299-bulls-and-cows) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/omdave123/Leetcode-Questions/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Two Pointers
@@ -36,4 +38,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/omdave123/Leetcode-Questions/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
+## Union-Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/omdave123/Leetcode-Questions/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
