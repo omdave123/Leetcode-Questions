@@ -69,4 +69,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0115-distinct-subsequences](https://github.com/omdave123/Leetcode-Questions/tree/master/0115-distinct-subsequences) |
+## Math
+|  |
+| ------- |
+| [3871-count-commas-in-range-ii](https://github.com/omdave123/Leetcode-Questions/tree/master/3871-count-commas-in-range-ii) |
 <!---LeetCode Topics End-->
