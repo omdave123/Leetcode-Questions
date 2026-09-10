@@ -73,4 +73,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3871-count-commas-in-range-ii](https://github.com/omdave123/Leetcode-Questions/tree/master/3871-count-commas-in-range-ii) |
+## Tree
+|  |
+| ------- |
+| [0226-invert-binary-tree](https://github.com/omdave123/Leetcode-Questions/tree/master/0226-invert-binary-tree) |
+## Depth-First Search
+|  |
+| ------- |
+| [0226-invert-binary-tree](https://github.com/omdave123/Leetcode-Questions/tree/master/0226-invert-binary-tree) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0226-invert-binary-tree](https://github.com/omdave123/Leetcode-Questions/tree/master/0226-invert-binary-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0226-invert-binary-tree](https://github.com/omdave123/Leetcode-Questions/tree/master/0226-invert-binary-tree) |
 <!---LeetCode Topics End-->
