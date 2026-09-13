@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/omdave123/Leetcode-Questions/tree/master/0001-two-sum) |
 | [0128-longest-consecutive-sequence](https://github.com/omdave123/Leetcode-Questions/tree/master/0128-longest-consecutive-sequence) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/omdave123/Leetcode-Questions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0835-image-overlap](https://github.com/omdave123/Leetcode-Questions/tree/master/0835-image-overlap) |
 | [3643-flip-square-submatrix-vertically](https://github.com/omdave123/Leetcode-Questions/tree/master/3643-flip-square-submatrix-vertically) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/omdave123/Leetcode-Questions/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3903-smallest-stable-index-i](https://github.com/omdave123/Leetcode-Questions/tree/master/3903-smallest-stable-index-i) |
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0835-image-overlap](https://github.com/omdave123/Leetcode-Questions/tree/master/0835-image-overlap) |
 | [3643-flip-square-submatrix-vertically](https://github.com/omdave123/Leetcode-Questions/tree/master/3643-flip-square-submatrix-vertically) |
 ## String
 |  |
