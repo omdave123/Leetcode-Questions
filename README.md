@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0836-rectangle-overlap](https://github.com/omdave123/Leetcode-Questions/tree/master/0836-rectangle-overlap) |
 | [3871-count-commas-in-range-ii](https://github.com/omdave123/Leetcode-Questions/tree/master/3871-count-commas-in-range-ii) |
 ## Tree
 |  |
@@ -103,4 +104,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0101-symmetric-tree](https://github.com/omdave123/Leetcode-Questions/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/omdave123/Leetcode-Questions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/omdave123/Leetcode-Questions/tree/master/0226-invert-binary-tree) |
+## Geometry
+|  |
+| ------- |
+| [0836-rectangle-overlap](https://github.com/omdave123/Leetcode-Questions/tree/master/0836-rectangle-overlap) |
 <!---LeetCode Topics End-->
