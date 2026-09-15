@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/omdave123/Leetcode-Questions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/omdave123/Leetcode-Questions/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3643-flip-square-submatrix-vertically](https://github.com/omdave123/Leetcode-Questions/tree/master/3643-flip-square-submatrix-vertically) |
 ## Matrix
 |  |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/omdave123/Leetcode-Questions/tree/master/0020-valid-parentheses) |
 | [0115-distinct-subsequences](https://github.com/omdave123/Leetcode-Questions/tree/master/0115-distinct-subsequences) |
 | [0299-bulls-and-cows](https://github.com/omdave123/Leetcode-Questions/tree/master/0299-bulls-and-cows) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/omdave123/Leetcode-Questions/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/omdave123/Leetcode-Questions/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 ## Counting
 |  |
@@ -71,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0115-distinct-subsequences](https://github.com/omdave123/Leetcode-Questions/tree/master/0115-distinct-subsequences) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/omdave123/Leetcode-Questions/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 ## Math
 |  |
 | ------- |
@@ -108,4 +111,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0836-rectangle-overlap](https://github.com/omdave123/Leetcode-Questions/tree/master/0836-rectangle-overlap) |
+## Greedy
+|  |
+| ------- |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/omdave123/Leetcode-Questions/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 <!---LeetCode Topics End-->
