@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/omdave123/Leetcode-Questions/tree/master/0001-two-sum) |
 | [0128-longest-consecutive-sequence](https://github.com/omdave123/Leetcode-Questions/tree/master/0128-longest-consecutive-sequence) |
 | [0299-bulls-and-cows](https://github.com/omdave123/Leetcode-Questions/tree/master/0299-bulls-and-cows) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/omdave123/Leetcode-Questions/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/omdave123/Leetcode-Questions/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Two Pointers
 |  |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/omdave123/Leetcode-Questions/tree/master/0020-valid-parentheses) |
 | [0115-distinct-subsequences](https://github.com/omdave123/Leetcode-Questions/tree/master/0115-distinct-subsequences) |
 | [0299-bulls-and-cows](https://github.com/omdave123/Leetcode-Questions/tree/master/0299-bulls-and-cows) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/omdave123/Leetcode-Questions/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/omdave123/Leetcode-Questions/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/omdave123/Leetcode-Questions/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 ## Counting
@@ -117,9 +119,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/omdave123/Leetcode-Questions/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/omdave123/Leetcode-Questions/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 ## Combinatorics
 |  |
 | ------- |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/omdave123/Leetcode-Questions/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
+## Sorting
+|  |
+| ------- |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/omdave123/Leetcode-Questions/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 <!---LeetCode Topics End-->
