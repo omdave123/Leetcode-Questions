@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/omdave123/Leetcode-Questions/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/omdave123/Leetcode-Questions/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/omdave123/Leetcode-Questions/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
+| [3498-reverse-degree-of-a-string](https://github.com/omdave123/Leetcode-Questions/tree/master/3498-reverse-degree-of-a-string) |
 ## Counting
 |  |
 | ------- |
@@ -131,4 +132,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/omdave123/Leetcode-Questions/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
+## Simulation
+|  |
+| ------- |
+| [3498-reverse-degree-of-a-string](https://github.com/omdave123/Leetcode-Questions/tree/master/3498-reverse-degree-of-a-string) |
 <!---LeetCode Topics End-->
