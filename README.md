@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/omdave123/Leetcode-Questions/tree/master/0001-two-sum) |
 | [0128-longest-consecutive-sequence](https://github.com/omdave123/Leetcode-Questions/tree/master/0128-longest-consecutive-sequence) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/omdave123/Leetcode-Questions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0739-daily-temperatures](https://github.com/omdave123/Leetcode-Questions/tree/master/0739-daily-temperatures) |
 | [0835-image-overlap](https://github.com/omdave123/Leetcode-Questions/tree/master/0835-image-overlap) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/omdave123/Leetcode-Questions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3643-flip-square-submatrix-vertically](https://github.com/omdave123/Leetcode-Questions/tree/master/3643-flip-square-submatrix-vertically) |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/omdave123/Leetcode-Questions/tree/master/0020-valid-parentheses) |
+| [0739-daily-temperatures](https://github.com/omdave123/Leetcode-Questions/tree/master/0739-daily-temperatures) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/omdave123/Leetcode-Questions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 ## Bracket Sequences
 |  |
@@ -141,4 +143,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3498-reverse-degree-of-a-string](https://github.com/omdave123/Leetcode-Questions/tree/master/3498-reverse-degree-of-a-string) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0739-daily-temperatures](https://github.com/omdave123/Leetcode-Questions/tree/master/0739-daily-temperatures) |
 <!---LeetCode Topics End-->
