@@ -7,12 +7,11 @@ class Solution:
             else:
                 if not bracket:
                     return False
-                if bracket[-1]=="{" and x=="}":
-                    bracket.pop()
-                elif bracket[-1]=="(" and x==")":
-                    bracket.pop()
-                elif bracket[-1]=="[" and x=="]":
-                    bracket.pop()
-                else:
+                k=bracket.pop()
+                if k!="{" and x=="}":
+                    return False
+                if k!="(" and x==")":
+                    return False
+                if k!="[" and x=="]":
                     return False
         return not(len(bracket))
