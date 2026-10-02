@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/omdave123/Leetcode-Questions/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/omdave123/Leetcode-Questions/tree/master/0022-generate-parentheses) |
 | [0115-distinct-subsequences](https://github.com/omdave123/Leetcode-Questions/tree/master/0115-distinct-subsequences) |
 | [0299-bulls-and-cows](https://github.com/omdave123/Leetcode-Questions/tree/master/0299-bulls-and-cows) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/omdave123/Leetcode-Questions/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/omdave123/Leetcode-Questions/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/omdave123/Leetcode-Questions/tree/master/0022-generate-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/omdave123/Leetcode-Questions/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/omdave123/Leetcode-Questions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 ## Prefix Sum
@@ -85,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/omdave123/Leetcode-Questions/tree/master/0022-generate-parentheses) |
 | [0115-distinct-subsequences](https://github.com/omdave123/Leetcode-Questions/tree/master/0115-distinct-subsequences) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/omdave123/Leetcode-Questions/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/omdave123/Leetcode-Questions/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
@@ -150,4 +153,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0739-daily-temperatures](https://github.com/omdave123/Leetcode-Questions/tree/master/0739-daily-temperatures) |
+## Backtracking
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/omdave123/Leetcode-Questions/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
